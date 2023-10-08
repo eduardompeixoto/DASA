@@ -35,7 +35,7 @@ jobs:
 
       - name: Execute Script
         run: |
-          Rscript "inst/rodar_esus.R"
+          Rscript "inst/dasa.R"
 
       - name: Commit and Push
         run: |
