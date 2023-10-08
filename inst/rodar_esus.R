@@ -2,7 +2,7 @@ pkgload::load_all()
 
 df_esus <- esus()
 dasa<-df_esus
-save(dasa, file="inst/Painel_Viral.RData")
+save(dasa, file="inst/dasa.RData")
 
 commit_message <- paste0("", Sys.time())
 
