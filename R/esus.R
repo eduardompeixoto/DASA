@@ -7,7 +7,7 @@ require(readr)
 require(googlesheets4)
 googlesheets4::gs4_deauth()
 
-read_sheet("https://docs.google.com/spreadsheets/d/1AzDiYqHrYn3IHRTwHsCYi6MZRLHPFIZJeu2dCxzAI5M/edit#gid=0")
+read_sheet("https://docs.google.com/spreadsheets/d/1Dk2CD75dgvPt11EAChbBcYXNe2xz8GjwG1YvdiFYWxA/edit#gid=1208927962")
 
   
 
