@@ -14,7 +14,7 @@ jobs:
   render:
     name: update_diario_esus_notifica
 
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
